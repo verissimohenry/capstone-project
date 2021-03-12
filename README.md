@@ -1,4 +1,4 @@
-# capstone-project vsmo
+# Capstone-Project VSMO Photography Conference
 
 > One paragraph statement about the project.
 
