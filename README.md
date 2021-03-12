@@ -1,4 +1,4 @@
-# Project Name
+# capstone-project vsmo
 
 > One paragraph statement about the project.
 
