@@ -4,14 +4,23 @@
 
 ![screenshot](./app_screenshot.png)
 
+The project is to build a Conference website and I decided to build one that applies to photography. It has three pages.
+- The Home page
+- The Schedule page
+- The About page
 
-Additional description about the project and its features.
+Each of these pages have versions for 2 different screen sizes: 
+
+- mobile: up to 768px
+- desktop: from 768px
+
 
 ## Built With
 
 - HTML
 - CSS3
 - Font awesome icons
+- Bootstrap
 
 ## Live Demo
 
@@ -32,21 +41,15 @@ Clone the project locally.
 
 Install and run a live server plugin on you IDE/Text editor and run it from the root directory.
 
-## Authors
+## Author
 
-👤 **Mkrtich Sargsyan**
+👤 **Verissimo Henry**
 
-- Github: [@githubhandle](https://github.com/MkrtichSargsyan)
-- Twitter: [@twitterhandle](https://twitter.com/MkrtichSargsyan)
-- Linkedin: [linkedin](https://www.linkedin.com/in/mkrtich-sargsyan-921ab0152/)
-- Email:  mkrtichsargsyan24@gmail.com
+- Github: [@githubhandle](https://github.com/verissimohenry)
+- Twitter: [@twitterhandle](https://twitter.com/verissimohenry)
+- Linkedin: [linkedin](https://www.linkedin.com/in/henry-verissimo-618906167/)
+- Email:  verissimohenry04@gmail.com
 
-👤 **Author2**
-
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
-- Email:  
 
 ## Show your support
 
