@@ -65,3 +65,25 @@ a:hover {
 .l1 a{
   color: #000;
 }
+
+.btn-outline-danger {
+  color: #dc3545;
+  border-color: #dc3545;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: rgba(0,0,0,.55);
+}
+
+.big-text {
+  font-size: 52px;
+  margin: 20px 0;
+  color: rgba(233, 75, 17, 0.96);
+}
+
+a.btn {
+  margin: 30px 10px;
+  width: 150px;
+  padding: 10px;
+  border-radius: 20px;
+}
