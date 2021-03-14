@@ -72,7 +72,6 @@ a :hover {
    color: #ec5242;
 }
 
-
 /* main */
 
 .hero-image {
@@ -272,6 +271,12 @@ footer img {
   background-color: #272a31;
 }
 
+.partner-img {
+  width: 80px;
+  height: 80px;
+  opacity: 0.1;
+}
+
 
 
 
@@ -332,11 +337,6 @@ footer img {
   .footer-text {
     background-color: #272a31;
     color: #d3d3d3;
-  }
-
-  .partners,
-  .schedule-desktop {
-    display: none;
   }
 }  
 
