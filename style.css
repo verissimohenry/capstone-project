@@ -236,6 +236,10 @@ h1, h2, h4 {
   display: none;
 }
 
+.lighter {
+   color:  #d3d3d3;
+}
+
 /* FOOTER */
 
 .footer-items {
