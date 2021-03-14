@@ -29,7 +29,7 @@ a {
 }
 
 a:hover {
-  color: #272a31;
+  color: #ec5242;
 }
 
 /*
@@ -310,12 +310,6 @@ footer img {
 
 /* media q */
 
-@media (min-width: 1200px){
-.fs-1 {
-    font-size: 2.5rem!important;
-  }
-}
-
 @media (max-width: 768px) {
   .footer-items {
     background-color: #272a31;
@@ -382,9 +376,3 @@ footer img {
     height: auto;
   }
 }  
-
-@media (min-width: 576px) {
-.container {
-    max-width: 540px;
-  }
-}
