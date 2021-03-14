@@ -248,7 +248,7 @@ h1, h2, h4 {
 }
 
 footer img {
-  height: auto;
+  height: 90px;
   border-radius: 50%;
   padding: 15px;
 }
@@ -277,7 +277,43 @@ footer img {
   opacity: 0.1;
 }
 
+/* ABOUT */
 
+.about-1 {
+  background:
+    linear-gradient(
+      to bottom,
+      rgba(255, 255, 255, 0.3),
+      rgba(255, 255, 255)
+    ),
+    url("../assets/img/lightbg.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.about-text-1,
+.about-text-3 {
+  width: 60%;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+.about-logo {
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+.past {
+  position: relative;
+}
+
+.past-text {
+  position: absolute;
+  top: 30%;
+  left: 20%;
+  color: #fff;
+  font-family: "Lato", sans-serif;
+}
 
 
 /* media q */
@@ -337,6 +373,11 @@ footer img {
   .footer-text {
     background-color: #272a31;
     color: #d3d3d3;
+  }
+
+  .about-logo {
+    width: 100%;
+    height: auto;
   }
 }  
 
