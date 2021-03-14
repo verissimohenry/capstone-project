@@ -104,7 +104,7 @@ h1, h2, h4 {
 /* SCHEDULE */
 
 .schedule {
-  background-image: url(images/bvgh.jpg);
+  background-image: url(images/cc.jpg);
   background-color: #cccccc;
   background-position: center;
   background-repeat: repeat;
@@ -315,7 +315,6 @@ footer img {
   font-family: "Lato", sans-serif;
 }
 
-
 /* media q */
 
 @media (min-width: 1200px){
@@ -325,14 +324,13 @@ footer img {
 }
 
 @media (max-width: 768px) {
-.schedule-week {
-    display: block;
-    padding-bottom: 40px;
+  .footer-items {
+    background-color: #272a31;
   }
 
-  .schedule-day {
-    display: flex;
-    justify-content: space-between;
+  .footer-text {
+    background-color: #272a31;
+    color: #d3d3d3;
   }
 
   .partners,
@@ -366,13 +364,24 @@ footer img {
     color: #d3d3d3;
   }
 
-  .footer-items {
-    background-color: #272a31;
+  .schedule-day {
+    display: flex;
+    justify-content: space-between;
   }
 
-  .footer-text {
-    background-color: #272a31;
-    color: #d3d3d3;
+  .schedule-day h6 {
+    margin-bottom: 15px;
+    margin-left: 30px;
+    padding: 0 20px;
+  }
+
+  .schedule-day p {
+    margin-left: 20px;
+  }
+
+  .schedule-week {
+    display: block;
+    padding-bottom: 40px;
   }
 
   .about-logo {
