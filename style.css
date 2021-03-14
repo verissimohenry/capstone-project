@@ -104,13 +104,10 @@ h1, h2, h4 {
 /* SCHEDULE */
 
 .schedule {
-  background-image: url(images/cc.jpg);
-  background-color: #cccccc;
-  background-position: center;
-  background-repeat: repeat;
+  background-image: url("../assets/img/schedule.png");
   background-size: cover;
-  position: relative;
-  margin: 9px 10px;
+  background-repeat: repeat;
+  margin: 0 10px;
 }
 
 .schedule-btn {
@@ -186,10 +183,6 @@ h1, h2, h4 {
 
 .e-card {
   background-color: #272a31;
-  color: #d3d3d3;
-}
-
-.white {
   color: #d3d3d3;
 }
 
