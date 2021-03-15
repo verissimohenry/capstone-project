@@ -1,7 +1,7 @@
  /*
-    ==============================================
+  ==============================================
                 ****** RESET ******
-    ==============================================
+  ==============================================
 */
 
 :root {
@@ -17,20 +17,24 @@
   box-sizing: border-box;
 }
 
-ul {
-  list-style: none;
-}
-
-ul li a:hover {
-  color: #ec5242;
-}
-
 a {
   text-decoration: none;
   color: white;
 }
 
 a:hover {
+  color: #ec5242;
+}
+
+.schedule-btn a {
+  color: #ec5242;
+}
+
+ul {
+  list-style: none;
+}
+
+ul li a:hover {
   color: #ec5242;
 }
 
@@ -67,7 +71,7 @@ section .bi {
 
 .intro-text {
   width: 60%;
-  margin-left: 10%;
+  margin-left:  10%;
 }
 
 a :hover {
@@ -78,7 +82,7 @@ a :hover {
 
 .hero-image {
   background-image: url(images/bm.jpeg);
-  background-color: #cccccc;
+  background-color: #ccc;
   background-position: center;
   background-repeat: repeat;
   background-size: cover;
@@ -89,8 +93,9 @@ a :hover {
 .orange {
   color: #ec5242;
 }
+
 .coco {
-  font-family: "COCOGOOSE", sans-serif;
+  font-family: "COCOGOOSE" , sans-serif;
 }
 
 h1, h2, h4 {
@@ -101,7 +106,6 @@ h1, h2, h4 {
 .add {
   color: white;
 }
-
 
 /* SCHEDULE */
 
@@ -120,10 +124,6 @@ h1, h2, h4 {
 .schedule-btn .btn {
   background-color: #d3d3d3;
   opacity: 0.7;
-}
-
-.schedule-btn a {
-  color: #ec5242;
 }
 
 .bg-light-col {
@@ -377,4 +377,4 @@ footer img {
     width: auto;
     height: auto;
   }
-}  
+}
