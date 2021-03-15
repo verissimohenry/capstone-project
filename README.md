@@ -1,4 +1,4 @@
-# Capstone-Project VSMO Photography Conference
+# Capstone-Project VSMO Photography Conference Page
 
 > One paragraph statement about the project.
 
@@ -24,7 +24,7 @@ Each of these pages have versions for 2 different screen sizes:
 
 ## Live Demo
 
-[Live Demo Link](https://raw.githack.com)
+[Live Demo Link](https://verissimohenry.github.io/capstone-project/)
 
 ## To get a local copy up and running follow these simple example steps.
 
@@ -57,4 +57,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](lic.url) licensed.
+This project is [Microverse](https://microverse.org) licensed.
