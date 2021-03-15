@@ -2,10 +2,10 @@
 
 > One paragraph statement about the project.
 
-![screenshot](images/Screenshot.png)
-![screenshot](images/Screenshot.png)
-![screenshot](images/Screenshot.png)
-![screenshot](images/Screenshot.png)
+![screenshot](images/sc.png)
+![screenshot](images/sc1.png)
+![screenshot](images/sc4.png)
+![screenshot](images/sc3.png)
 
 The project is to build a Conference website and I decided to build one that applies to photography. It has three pages.
 - The Home page
