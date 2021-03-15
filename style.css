@@ -1,8 +1,6 @@
- /*
-  ==============================================
+ /*==============================================
                 ****** RESET ******
-  ==============================================
-*/
+==============================================*/
 
 :root {
   --color-red: #f42;
@@ -71,11 +69,11 @@ section .bi {
 
 .intro-text {
   width: 60%;
-  margin-left:  10%;
+  margin-left: 10%;
 }
 
 a :hover {
-   color: #ec5242;
+  color: #ec5242;
 }
 
 /* main */
@@ -95,10 +93,12 @@ a :hover {
 }
 
 .coco {
-  font-family: "COCOGOOSE" , sans-serif;
+  font-family: "COCOGOOSE", sans-serif;
 }
 
-h1, h2, h4 {
+h1, 
+h2, 
+h4 {
   text-align: center;
   padding: 30px;
 }
@@ -231,7 +231,7 @@ h1, h2, h4 {
 }
 
 .lighter {
-   color:  #d3d3d3;
+   color: #d3d3d3;
 }
 
 /* FOOTER */
