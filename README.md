@@ -1,4 +1,4 @@
-# Capstone-Project VSMO Photography Conference
+# Capstone-Project VSMO Photography Conference Page
 
 > One paragraph statement about the project.
 
@@ -57,4 +57,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](lic.url) licensed.
+This project is [Microverse](https://microverse.org) licensed.
