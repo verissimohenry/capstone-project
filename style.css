@@ -97,6 +97,7 @@ h2,
 h4 {
   text-align: center;
   padding: 30px;
+  color: #d3d3d3;
 }
 
 .add {
@@ -106,7 +107,7 @@ h4 {
 /* SCHEDULE */
 
 .schedule {
-  background-image: url("../assets/img/schedule.png");
+  background-image: url("images/bvgh.jpg");
   background-size: cover;
   background-repeat: repeat;
   margin: 0 10px;
