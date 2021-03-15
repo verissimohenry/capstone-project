@@ -24,7 +24,7 @@ Each of these pages have versions for 2 different screen sizes:
 
 ## Live Demo
 
-[Live Demo Link](https://raw.githack.com)
+[Live Demo Link](https://verissimohenry.github.io/capstone-project/)
 
 ## To get a local copy up and running follow these simple example steps.
 
