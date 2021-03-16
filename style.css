@@ -55,10 +55,11 @@ ul li a:hover {
 
 section {
   font-family: "Lato", sans-serif;
+  color: #272a31;
 }
 
 section .bi {
-  color: #d3d3d3;
+  color: #272a31;
   font-size: 30px;
   align-items: center;
 }
@@ -101,7 +102,7 @@ h4 {
 }
 
 .add {
-  color: white;
+  color: #272a31;
 }
 
 /* SCHEDULE */
@@ -200,11 +201,10 @@ h4 {
   background-repeat: no-repeat;
   margin: 0 10px;
   height: 745px;
-  text-align: -webkit-center;
 }
 
 .iv-teams-header {
-  color: #ec5242;
+  color: #272a31;
 }
 
 .iv-teams-img {
