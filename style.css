@@ -209,7 +209,6 @@ h4 {
   background-repeat: no-repeat;
   margin: 0 10px;
   height: 745px;
-  text-align: -webkit-center;
 }
 
 .iv-teams-header {
@@ -371,11 +370,6 @@ footer img {
   .partners,
   .schedule-desktop {
     display: none;
-  }
-
-  .partners-item
-  .about {
-    table-layout: fixed;
   }
 
   .iv-grid-container {
