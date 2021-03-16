@@ -109,6 +109,15 @@ h4 {
   color: #272a31;
 }
 
+.form-check {
+  display: flex;
+}
+
+.form-check-lu {
+  display: inline;
+  padding: 40px
+}
+
 /* SCHEDULE */
 
 .schedule {
@@ -253,6 +262,12 @@ h4 {
   background-color: white;
 }
 
+.footer-items-txt{
+  display: flex;
+  justify-content: center;
+  background-color: white;
+}
+
 .footer-items-ab {
   display: flex;
   background-color: #272a31;
@@ -272,6 +287,12 @@ footer img {
   padding: 15px;
 }
 
+.footer-image-txt{
+  height: 130px;
+  border-radius: 50%;
+  padding: 15px;
+}
+
 .footer-text-ab {
   margin-right: 50px;
   padding-top: 30px;
@@ -283,6 +304,15 @@ footer img {
 .footer-text {
   margin-right: 50px;
   padding-top: 30px;
+  line-height: 1rem;
+  text-align: center;
+  background-color: #fff;
+  color: #272a31;
+}
+
+.footer-text-txt{
+  margin-right: 50px;
+  padding-top: 57px;
   line-height: 1rem;
   text-align: center;
   background-color: #fff;
@@ -421,5 +451,10 @@ footer img {
   .about-logo {
     width: auto;
     height: auto;
+  }
+
+  .about-img {
+    width: 300px;
+    height: 300px;
   }
 }
