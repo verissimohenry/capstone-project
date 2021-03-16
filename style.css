@@ -428,5 +428,10 @@ footer img {
   .about-logo {
     width: auto;
     height: auto;
+    text-align: -webkit-center;
+  }
+
+  .past-text {
+    text-align: -webkit-center;
   }
 }
