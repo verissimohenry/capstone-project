@@ -49,7 +49,7 @@ ul li a:hover {
 }
 
 .brand-img {
-  height: 100px;
+  height: 64px;
   width: auto;
 }
 
@@ -98,7 +98,6 @@ h4 {
   text-align: center;
   padding: 30px;
   color: #d3d3d3;
-  font-family: "COCOGOOSE", sans-serif;
 }
 
 .add {
@@ -200,6 +199,7 @@ h4 {
   background-size: cover;
   background-repeat: no-repeat;
   margin: 0 10px;
+  height: 745px;
 }
 
 .iv-teams-header {
@@ -207,7 +207,10 @@ h4 {
 }
 
 .iv-teams-img {
-  height: 140px;
+  float: left;
+    width:  100px;
+    height: 100px;
+    object-fit: cover;
 }
 
 .iv-grid-container {
@@ -296,6 +299,12 @@ footer img {
   margin-right: 20%;
 }
 
+.about-img {
+  width:  400px;
+  height: 400px;
+  background-size: cover;
+}
+
 .past {
   position: relative;
 }
@@ -323,6 +332,11 @@ footer img {
   .partners,
   .schedule-desktop {
     display: none;
+  }
+
+  .partners-item
+  .about{
+  table-layout: fixed;
   }
 
   .iv-grid-container {
