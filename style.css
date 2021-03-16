@@ -201,6 +201,7 @@ h4 {
   background-repeat: no-repeat;
   margin: 0 10px;
   height: 745px;
+  text-align: -webkit-center;
 }
 
 .iv-teams-header {
@@ -209,9 +210,9 @@ h4 {
 
 .iv-teams-img {
   float: left;
-    width:  100px;
-    height: 100px;
-    object-fit: cover;
+  width:  100px;
+  height: 100px;
+  object-fit: cover;
 }
 
 .iv-grid-container {
@@ -270,8 +271,9 @@ footer img {
 }
 
 .partner-img {
-  width: 80px;
-  height: 80px;
+  width:  100px;
+  height: 100px;
+  object-fit: cover;
   opacity: 0.1;
 }
 
