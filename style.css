@@ -200,6 +200,7 @@ h4 {
   background-repeat: no-repeat;
   margin: 0 10px;
   height: 745px;
+  text-align: -webkit-center;
 }
 
 .iv-teams-header {
@@ -225,6 +226,7 @@ h4 {
 .iv-grid-item {
   display: flex;
   justify-content: flex-start;
+  text-align: initial
 }
 
 .show {
@@ -279,10 +281,10 @@ footer img {
   background:
     linear-gradient(
       to bottom,
-      rgba(67, 175, 76, 0.3),
-      rgba(255, 255, 255)
+      rgba(255, 255, 255, 0.3),
+      rgb(255, 255, 255)
     ),
-    url("images/bgff.jpg");
+    url("images/bm.jpeg");
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -306,8 +308,8 @@ footer img {
   background:
     linear-gradient(
       to bottom,
-      rgba(67, 175, 76, 0.3),
-      rgba(255, 255, 255)
+      rgba(221, 31, 10, 0.919),
+      rgb(60, 233, 25)
     ),
     url("images/bgff.jpg");
 }
