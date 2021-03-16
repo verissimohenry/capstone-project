@@ -48,6 +48,10 @@ ul li a:hover {
   color: #fff;
 }
 
+.nav-item {
+  color: #d3d3d3;
+}
+
 .brand-img {
   height: 64px;
   width: auto;
