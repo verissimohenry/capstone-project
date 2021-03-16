@@ -218,7 +218,7 @@ h4 {
 
 .iv-teams-img {
   float: left;
-  width:  100px;
+  width: 100px;
   height: 100px;
   object-fit: cover;
 }
@@ -235,7 +235,7 @@ h4 {
 .iv-grid-item {
   display: flex;
   justify-content: flex-start;
-  text-align: initial
+  text-align: initial;
 }
 
 .show {
@@ -273,7 +273,7 @@ footer img {
   padding: 15px;
 }
 
-.footer-text-ab{
+.footer-text-ab {
   margin-right: 50px;
   padding-top: 30px;
   line-height: 1rem;
@@ -300,7 +300,7 @@ footer img {
 }
 
 .partner-img {
-  width:  80px;
+  width: 80px;
   height: 80px;
   object-fit: cover;
   opacity: 0.1;
@@ -333,9 +333,8 @@ footer img {
 }
 
 .about-img {
-  width:  400px;
+  width: 400px;
   height: 400px;
-  background-size: cover;
   background:
     linear-gradient(
       to bottom,
@@ -375,8 +374,8 @@ footer img {
   }
 
   .partners-item
-  .about{
-  table-layout: fixed;
+  .about {
+    table-layout: fixed;
   }
 
   .iv-grid-container {
@@ -428,10 +427,5 @@ footer img {
   .about-logo {
     width: auto;
     height: auto;
-    text-align: -webkit-center;
-  }
-
-  .past-text {
-    text-align: -webkit-center;
   }
 }
