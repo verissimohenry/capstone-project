@@ -243,13 +243,34 @@ h4 {
 .footer-items {
   display: flex;
   justify-content: center;
-  background-color: #fff;
+  background-color: white;
+}
+
+.footer-items-ab {
+  display: flex;
+  background-color: #272a31;
+  justify-content: center;
+}
+
+.footer-img-ab {
+  height: 90px;
+  border-radius: 50%;
+  padding: 15px;
+  text-align: center;
 }
 
 footer img {
   height: 90px;
   border-radius: 50%;
   padding: 15px;
+}
+
+.footer-text-ab{
+  margin-right: 50px;
+  padding-top: 30px;
+  line-height: 1rem;
+  text-align: center;
+  color: #fff;
 }
 
 .footer-text {
