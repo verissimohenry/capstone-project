@@ -3,7 +3,7 @@
 > One paragraph statement about the project.
 
 ![screenshot](images/sc.png)
-![screenshot](images/sc1.png)
+![screenshot](images/sc2.png)
 ![screenshot](images/sc4.png)
 ![screenshot](images/sc3.png)
 
