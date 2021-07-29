@@ -1,12 +1,5 @@
 # Capstone-Project VSMO Photography Conference Page
 
-> One paragraph statement about the project.
-
-![screenshot](images/sc.png)
-![screenshot](images/sc2.png)
-![screenshot](images/sc33.png)
-![screenshot](images/sc3.png)
-
 The project is to build a Conference website and I decided to build one that applies to photography. It has three pages.
 - The Home page
 - The Schedule page
@@ -17,6 +10,10 @@ Each of these pages have versions for 2 different screen sizes:
 - mobile: up to 768px
 - desktop: from 768px
 
+![screenshot](images/sc.png)
+![screenshot](images/sc2.png)
+![screenshot](images/sc33.png)
+![screenshot](images/sc3.png)
 
 ## Built With
 
