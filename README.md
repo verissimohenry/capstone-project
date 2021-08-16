@@ -10,6 +10,8 @@ Each of these pages have versions for 2 different screen sizes:
 - mobile: up to 768px
 - desktop: from 768px
 
+This is the capstone project created by using Bootstrap tools, flex, grid, and positioning.
+
 ![screenshot](images/sc.png)
 ![screenshot](images/sc2.png)
 ![screenshot](images/sc33.png)
@@ -26,7 +28,12 @@ Each of these pages have versions for 2 different screen sizes:
 
 [Live Demo Link](https://verissimohenry.github.io/capstone-project/)
 
-## To get a local copy up and running follow these simple example steps.
+## Getting started
+
+To gather all assets.
+To create a similar skeleton.
+To add content and style it. 
+To create search results landing page.  get a local copy up and running follow these simple example steps.
 
 ### Setup
 
